@@ -43,17 +43,16 @@ I enjoy understanding how data moves from ingestion to transformation, storage, 
 
 ---
 
-## ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyaneshwar18&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true" height="180" alt="GitHub contribution statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyaneshwar18&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="180" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyaneshwar18&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&cache_seconds=86400" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyaneshwar18&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=86400" height="180" alt="Most used programming languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gyaneshwar18&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
