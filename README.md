@@ -8,18 +8,6 @@ My professional work focuses on SQL, PostgreSQL, database support, reporting, da
 
 I enjoy understanding how data moves from ingestion to transformation, storage, and analytics, and building solutions that bring these components together.
 
-
----
-
-## 👨‍💻 About Me
-
-- 💼 Software Engineer working on the Sarathi E-Transport system at NIC through a third-party vendor.
-- 🗄️ Professional experience in SQL, PostgreSQL, reporting, and database support.
-- 🐍 Hands-on experience building Python ETL and data engineering projects.
-- ⚡ Practising distributed data processing with PySpark and Databricks.
-- ☁️ Exploring Azure Data Factory, ADLS Gen2, and cloud data engineering.
-- 🔧 Interested in scalable data pipelines, automation, and data processing.
-
 ---
 
 ## 🛠️ Technical Skills
@@ -52,83 +40,6 @@ I enjoy understanding how data moves from ingestion to transformation, storage, 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 1. Data Engineering Workbench
-
-**Python | FastAPI | PostgreSQL | SQLAlchemy | React | Vite**
-
-A practical Data Engineering workspace that connects data ingestion, storage, SQL querying, pipeline monitoring, and analytics in one platform.
-
-**Key Features:**
-- CSV file ingestion and dataset management.
-- PostgreSQL-based dataset storage.
-- SQL Lab for executing queries and viewing results.
-- Pipeline monitoring and execution status tracking.
-- Dashboard and metrics for data and pipeline analytics.
-- GitHub Actions for automated checks.
-
-🔗 [View Repository](https://github.com/gyaneshwar18/data-engineering-workbench)
-
-### 2. Data Engineer Journey
-
-**Python | SQL | Apache Airflow | PySpark | Databricks | Azure**
-
-A hands-on learning repository documenting my Data Engineering journey through practical exercises, implementations, and projects.
-
-**Focus Areas:**
-- Python and SQL for data processing.
-- ETL development and incremental loading.
-- Apache Airflow orchestration.
-- PySpark and distributed processing.
-- Delta Lake and Databricks.
-- Azure Data Factory and ADLS Gen2.
-
-🔗 [View Repository](https://github.com/gyaneshwar18/Data-Engineer-Journey)
-
-
-## 💼 Professional Experience
-
-### Software Engineer — Sarathi E-Transport System
-
-**National Informatics Centre (NIC) | Through a third-party vendor**
-
-- Work with SQL and PostgreSQL for database-related requirements.
-- Support report generation and data retrieval.
-- Retrieve, analyze, and validate datasets.
-- Troubleshoot database queries and support database operations.
-
----
-
-## 🎓 Certifications
-
-| Certification | Issuing Organization |
-|---|---|
-| Data Engineering with Python and AI — Master of ELT Best Practices | FreeCodeCamp / dtHub |
-| Data Engineering on Databricks | Databricks Academy |
-| Azure Data Factory & Databricks | Simplilearn SkillUp |
-
----
-
-## 🏆 Achievements & Continuous Learning
-
-- **GitHub Open-Source Contributions:** Contributed to public repositories and earned GitHub achievement badges, including Quickdraw.
-- **SQL Practice:** Continuously improving SQL skills through LeetCode problem-solving.
-
----
-
-## 📚 Currently Exploring
-
-- Advanced SQL and PostgreSQL.
-- Python ETL and data pipeline development.
-- PySpark and distributed data processing.
-- Delta Lake and incremental data loading.
-- Azure Data Factory and ADLS Gen2.
-- Databricks Jobs and Workflows.
-- Data pipeline orchestration with Apache Airflow.
 
 ---
 
